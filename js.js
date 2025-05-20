@@ -1,7 +1,8 @@
 var LIST = [
     "coolness",
     "all other things",
-    "sweetness"
+    "sweetness",
+    "awesomeness"
 ];
 
 var BTN = document.getElementById("myButton");
